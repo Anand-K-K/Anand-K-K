@@ -61,9 +61,18 @@ I enjoy understanding business requirements, analysing data, identifying pattern
 - Created interactive dashboards and business-focused visualisations.
 - Tools: Power BI, DAX, Power Query.
 
+
 ## 🎓 Certifications
 
-- Business Analyst Bootcamp: Agile, Jira & Interview Prep – Udemy (2026)
+### Business Analyst Bootcamp: Agile, Jira & Interview Prep
+- **Issuing Platform:** Udemy
+- **Completion Date:** November 2026
+- **Duration:** 4.5 Hours
+- **Credential ID:** UC-f0c44c89-7a42-4c04-b021-89008a06faa0
+- **Certificate:** [View Certificate](https://ude.my/UC-f0c44c89-7a42-4c04-b021-89008a06faa0)
+
+Completed training covering Business Analysis fundamentals, Agile methodologies, Jira and interview preparation.
+
 
 ## 🤝 Connect With Me
 
